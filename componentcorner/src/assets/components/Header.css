@@ -46,3 +46,15 @@
     float: none;
   }
 }
+
+.cart-badge {
+  background-color: red;
+  color: white;
+  padding: 0.1%;
+  text-align: center;
+  border-radius: 40%;
+  position:absolute;
+  top: 8%;
+  left: 74%;
+  transform: translate(-50%, -50%);
+}
